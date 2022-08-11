@@ -1,7 +1,5 @@
 # WorkAdventure Map Starter Kit
 
-![map](./map.png)
-
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
 To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
@@ -10,8 +8,6 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 * **tilesets** : All tilesets
 * **public** : Static files
 * **src** : All TypeScript/Javascript scripts
-* **map.json** : Map file
-* **map.png** : Image displayed on README.md and on the map infos in-game
 
 If you want to use more than one map file, just add the new map file in the root folder, your tilesets in the assets folder and a new script if you need it in the src folder (it will be automaticaly optimized in production).
 
@@ -39,9 +35,10 @@ npm run preview
 
 This project contains multiple licenses as follows:
 
-* [Code license](./LICENSE.code) *(all files except those for other licenses)*
-* [Map license](./LICENSE.map) *(`map.json` and the map visual as well)*
-* [Assets license](./LICENSE.assets) *(the files inside the `src/assets/` folder)*
+* [Code license](./LICENSE.code) *(files in the .github folder, vite and ts config)*
+* [Assets license](./LICENSE.assets) *(the files inside the `tilesets/exemples` folder)*
+* Mixed liceses * the files in the tilests/common directory * 
+* Copyright Jamespot * all other files *
 
 ### About third party assets
 
