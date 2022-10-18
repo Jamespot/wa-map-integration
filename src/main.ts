@@ -21,10 +21,10 @@ WA.onInit().then(async () => {
 
                 if (prop.name === 'goto') {
                     console.log("GotoLayer : " + key);
-                    let config: {action: "goto", value: string, type: string, confirmMessage?: string } | undefined = undefined;
+                    let config: {action: "goto", value: object, type: string, confirmMessage?: string } | undefined = undefined;
 
                     try {
-                        config = JSON.parse(prop.value!);
+                        config = JSON.parse(prop.value as string);
                     } catch(error) {
                         /* silent error */
                     }
