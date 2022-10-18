@@ -24,7 +24,7 @@ WA.onInit().then(async () => {
                     let config: {action: "goto", value: string, type: string, confirmMessage?: string } | undefined = undefined;
 
                     try {
-                        config = JSON.parse(prop.value)!;
+                        config = JSON.parse(prop.value!);
                     } catch(error) {
                         /* silent error */
                     }
