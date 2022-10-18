@@ -1,7 +1,7 @@
 /// <reference types="@workadventure/iframe-api-typings" />
 
 import { getLayersMap } from "@workadventure/scripting-api-extra";
-import { ActionMessage } from "@workadventure/iframe-api-typings/Api/iframe/Ui/ActionMessage";
+import { ActionMessage } from "@workadventure/iframe-api-typings/Api/Iframe/Ui/ActionMessage";
 import { postIframeMessage } from "./common";
 
 console.log('Script started successfully');
@@ -20,14 +20,12 @@ WA.onInit().then(async () => {
             val.properties.forEach(prop => {
 
                 if (prop.name === 'goto') {
-                    console.log("value", prop.value)
                     console.log("GotoLayer : " + key);
                     let config: {action: "goto", value: string, type: string, confirmMessage?: string } | undefined = undefined;
 
                     try {
-                        config = JSON.parse(prop.value);
+                        config = JSON.parse(prop.value)!;
                     } catch(error) {
-                        console.log(error)
                         /* silent error */
                     }
 
