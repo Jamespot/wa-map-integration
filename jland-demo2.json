@@ -228,19 +228,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Press space to show"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/jamespot.com\/blog\/"
                         }, 
                         {
-                         "name":"openWebsiteTriggerMessage",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press space to show"
                         }],
                  "type":"tilelayer",
                  "visible":true,
