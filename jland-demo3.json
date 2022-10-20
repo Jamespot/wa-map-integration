@@ -1181,6 +1181,11 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Press space to enter"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"visio.jamespot.pro"
                         }],
                  "type":"tilelayer",
                  "visible":true,
