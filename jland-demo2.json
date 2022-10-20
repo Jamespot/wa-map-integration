@@ -218,7 +218,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebiste",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/jamespot.com\/blog\/"
                         }],
