@@ -994,14 +994,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_P-1"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
@@ -1081,14 +1081,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_P-2"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
@@ -1168,14 +1168,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_P-3"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
@@ -1255,14 +1255,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_P-4"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
@@ -1342,14 +1342,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_C-1"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
@@ -1429,14 +1429,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_C-2"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
@@ -1516,14 +1516,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_C-2"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
@@ -1603,14 +1603,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jistiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"SP_WG_C-4"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
