@@ -350,9 +350,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openCoWebsite",
                          "type":"string",
-                         "value":"https:\/\/teams.live.com\/meet\/9450758435640"
+                         "value":"{url: https:\/\/teams.live.com\/meet\/9450758435640, allowApi: true, allowPolicy: *}"
                         }, 
                         {
                          "name":"openTabTrigger",
