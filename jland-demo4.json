@@ -352,22 +352,7 @@
                         {
                          "name":"openCoWebsite",
                          "type":"string",
-                         "value":"{\"url\": \"https:\/\/teams.live.com\/meet\/9450758435640\", \"allowApi\": \"true\", \"allowPolicy\": \"*\"}"
-                        }, 
-                        {
-                         "name":"openTabTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openTabTriggerMessage",
-                         "type":"string",
-                         "value":"Press space to enter"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"*"
+                         "value":"https:\/\/teams.live.com\/meet\/9450758435640"
                         }],
                  "type":"tilelayer",
                  "visible":true,
