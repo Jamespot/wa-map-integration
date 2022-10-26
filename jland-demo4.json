@@ -352,7 +352,7 @@
                         {
                          "name":"openCoWebsite",
                          "type":"string",
-                         "value":"{url: https:\/\/teams.live.com\/meet\/9450758435640, allowApi: true, allowPolicy: *}"
+                         "value":"{\"url\": \"https:\/\/teams.live.com\/meet\/9450758435640\", \"allowApi\": \"true\", \"allowPolicy\": \"*\"}"
                         }, 
                         {
                          "name":"openTabTrigger",
