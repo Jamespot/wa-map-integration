@@ -52,13 +52,17 @@ WA.onInit().then(async () => {
                         })
                     }
                 } else if (prop.type === 'string' && prop.name === 'openTeam') {
+                    const triggerMessage = WA.ui.displayActionMessage({
+                        message: "press 'space' to start",
+                        callback: () => {
+                            WA.nav.openTab(prop.value as string);
+                        }})
                     WA.room.onEnterLayer(key).subscribe(() => {
-                        WA.ui.displayActionMessage({
-                            message: "press 'space' to start",
-                            callback: () => {
-                                WA.nav.openTab(prop.value as string);
-                            }
-                    })});
+                        triggerMessage;
+                    });
+                    WA.room.onLeaveLayer(key).subscribe(() => {
+                        triggerMessage.remove();
+                    })
                 } else if (prop.type === 'string' && prop.name === 'jitsiRoom') {
                     WA.room.onEnterLayer(key).subscribe(() => {
                         postIframeMessage({
