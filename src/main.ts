@@ -52,13 +52,13 @@ WA.onInit().then(async () => {
                         })
                     }
                 } else if (prop.type === 'string' && prop.name === 'openTeam') {
-                    const triggerMessage = WA.ui.displayActionMessage({
-                        message: "press 'space' to start",
-                        callback: () => {
-                            WA.nav.openTab(prop.value as string);
-                        }})
+                    let triggerMessage;
                     WA.room.onEnterLayer(key).subscribe(() => {
-                        triggerMessage;
+                        triggerMessage = WA.ui.displayActionMessage({
+                            message: "press 'space' to start",
+                            callback: () => {
+                                WA.nav.openTab(prop.value as string);
+                            }});
                     });
                     WA.room.onLeaveLayer(key).subscribe(() => {
                         triggerMessage.remove();
