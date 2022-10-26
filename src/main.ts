@@ -56,7 +56,7 @@ WA.onInit().then(async () => {
                         WA.ui.displayActionMessage({
                             message: "press 'space' to start",
                             callback: () => {
-                                WA.nav.openCoWebSite('https://meet.google.com/kzd-kime-iau', true, "", 70, 1, true, true);
+                                WA.nav.openCoWebSite('https://meet.google.com/kzd-kime-iau', true, "*", 70, 1, true, true);
                                 // WA.nav.openTab(prop.value as string);
                             }
                     })});
