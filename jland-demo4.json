@@ -350,24 +350,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/teams.live.com\/meet\/9450758435640"
+                        }, 
+                        {
+                         "name":"openTabTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openTabTriggerMessage",
+                         "type":"string",
+                         "value":"Press space to enter"
                         }, 
                         {
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"*"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press space to enter"
                         }],
                  "type":"tilelayer",
                  "visible":true,
