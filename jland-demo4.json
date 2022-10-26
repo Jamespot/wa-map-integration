@@ -278,6 +278,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"allow",
+                         "type":"string",
+                         "value":"*"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/whereby.com\/guillaumejamespot"
@@ -291,6 +296,11 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Press space to enter"
+                        }, 
+                        {
+                         "name":"policy",
+                         "type":"string",
+                         "value":"camera *; microphone *"
                         }],
                  "type":"tilelayer",
                  "visible":true,
