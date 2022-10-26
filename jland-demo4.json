@@ -350,7 +350,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openCoWebsite",
+                         "name":"openTeam",
                          "type":"string",
                          "value":"https:\/\/teams.live.com\/meet\/9450758435640"
                         }],
