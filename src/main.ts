@@ -51,15 +51,15 @@ WA.onInit().then(async () => {
                             }
                         })
                     }
-                } else if (prop.type === 'string' && prop.name === 'openTeam') {
-                    WA.room.onEnterLayer(key).subscribe(() => {
-                        WA.ui.displayActionMessage({
-                            message: "press 'space' to start",
-                            callback: () => {
-                                WA.nav.openCoWebSite('https://meet.google.com/kzd-kime-iau', true, "*", 70, 1, true, true);
-                                // WA.nav.openTab(prop.value as string);
-                            }
-                    })});
+                // OPEN LINK IN NEW TAB BY PRESSING SPACE
+                // } else if (prop.type === 'string' && prop.name === 'openTeam') {
+                //     WA.room.onEnterLayer(key).subscribe(() => {
+                //         WA.ui.displayActionMessage({
+                //             message: "press 'space' to start",
+                //             callback: () => {
+                //                 WA.nav.openTab(prop.value as string);
+                //             }
+                //     })});
                 } else if (prop.type === 'string' && prop.name === 'jitsiRoom') {
                     WA.room.onEnterLayer(key).subscribe(() => {
                         postIframeMessage({
