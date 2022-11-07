@@ -331,6 +331,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press space to open"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -400,6 +410,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press space to open"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -469,6 +489,16 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press space to open"
                         }],
                  "type":"tilelayer",
                  "visible":true,
