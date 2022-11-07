@@ -126,7 +126,7 @@
                 {
                  "name":"goto",
                  "type":"string",
-                 "value":"{\"action\": \"goto\", \"value\": \"https:\/\/jamespot.land\/airspot\", \"type\": \"external\", \"confirmMessage\": \"Appuyez sur 'espace' pour vous rendre au Airspot.\"} "
+                 "value":"{\"action\": \"goto\", \"value\": \"\/airspot\", \"type\": \"internal\", \"confirmMessage\": \"Appuyez sur 'espace' pour vous rendre au Airspot.\"} "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -330,7 +330,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.fr.jamespot.com\/ressources"
+                         "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -399,7 +399,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.fr.jamespot.com\/ressources"
+                         "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -468,7 +468,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.fr.jamespot.com\/ressources"
+                         "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
                         }],
                  "type":"tilelayer",
                  "visible":true,
