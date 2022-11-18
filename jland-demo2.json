@@ -575,6 +575,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"disableProximityMeeting",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/jamespot.whereby.com\/jamespot-summit"
@@ -3729,7 +3734,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.5",
  "tileheight":32,
  "tilesets":[
         {
@@ -3796,6 +3801,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":73
 }
