@@ -603,6 +603,11 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"camera *; microphone *; display-capture *;"
+                        }, 
+                        {
+                         "name":"visioRoom",
+                         "type":"string",
+                         "value":"JS_WB-Pleniere"
                         }],
                  "type":"tilelayer",
                  "visible":true,
