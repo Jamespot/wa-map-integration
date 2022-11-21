@@ -413,6 +413,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"JP_WG-1"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -421,11 +426,6 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Press space to enter"
-                        }, 
-                        {
-                         "name":"jitstiRoom",
-                         "type":"string",
-                         "value":"JP_WG-1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -528,6 +528,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"JP_WG-2"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -536,11 +541,6 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Press space to enter"
-                        }, 
-                        {
-                         "name":"jitstiRoom",
-                         "type":"string",
-                         "value":"JP_WG-2"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -643,6 +643,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"JP_WG-3"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -651,11 +656,6 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Press space to enter"
-                        }, 
-                        {
-                         "name":"jitstiRoom",
-                         "type":"string",
-                         "value":"JP_WG-3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -758,6 +758,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"JP_WG-4"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -766,11 +771,6 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Press space to enter"
-                        }, 
-                        {
-                         "name":"jitstiRoom",
-                         "type":"string",
-                         "value":"JP_WG-4"
                         }],
                  "type":"tilelayer",
                  "visible":true,
