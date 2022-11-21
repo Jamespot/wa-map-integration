@@ -76,6 +76,14 @@ WA.onInit().then(async () => {
                             value: "_leave"
                         })
                     })
+                } else if (prop.type === 'bool' && prop.name === 'disableProximityMeeting') {
+                    WA.room.onEnterLayer(key).subscribe(() => {
+                        WA.controls.disablePlayerProximityMeeting();
+                    })
+
+                    WA.room.onLeaveLayer(key).subscribe(() => {
+                        WA.controls.restorePlayerProximityMeeting();
+                    })
                 }
             });
         }
