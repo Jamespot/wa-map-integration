@@ -328,6 +328,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"disableProximityMeeting",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
@@ -407,6 +412,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"disableProximityMeeting",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/communication.jamespot.com\/jamespot-summit\/#lp-pom-block-196"
@@ -485,6 +495,11 @@
                  "name":"pr3",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"disableProximityMeeting",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
