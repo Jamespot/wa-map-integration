@@ -366,7 +366,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"CB_WG_TL"
+                         "value":"FR_SALES"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -451,7 +451,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"CB_WG_TL"
+                         "value":"FR_CSM"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -536,7 +536,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"CB_WG_TL"
+                         "value":"FR_PARTNERS"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -621,7 +621,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"CB_WG_TL"
+                         "value":"FR_RDV"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -706,7 +706,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"CB_WG_TL"
+                         "value":"ES_PARTNERS"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -791,7 +791,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"CB_WG_TL"
+                         "value":"ES_SALES"
                         }, 
                         {
                          "name":"jitsiTrigger",
