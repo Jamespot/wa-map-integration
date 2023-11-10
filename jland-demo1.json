@@ -971,7 +971,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"app.simplymeet.me\/demo-jamespot"
+                         "value":"https:\/\/app.simplymeet.me\/demo-jamespot"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
