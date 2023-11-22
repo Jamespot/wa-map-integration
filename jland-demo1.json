@@ -1326,7 +1326,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/files.jamespot.blog\/index.php\/s\/2rzKanDkZiLstSk\/download\/Summit2023-howto-FR.pdf"
+                         "value":"https:\/\/files.jamespot.blog\/index.php\/s\/2rzKanDkZiLstSk"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1411,7 +1411,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/files.jamespot.blog\/index.php\/s\/k9Zr2t3YgbySWQy\/download\/Summit2023-howto-ES.pdf"
+                         "value":"https:\/\/files.jamespot.blog\/index.php\/s\/k9Zr2t3YgbySWQy"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
