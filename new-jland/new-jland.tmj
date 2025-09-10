@@ -498,8 +498,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":13,
-         "source":"Furnitures.tsx"
+         "image":"assets\/Furnitures.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Furnitures",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
