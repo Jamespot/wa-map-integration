@@ -396,7 +396,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen=*, microphone=*, camera=*"
+                 "value":"camera; microphone; fullscreen; display-capture; autoplay; compute-pressure"
                 }],
          "type":"tilelayer",
          "visible":true,

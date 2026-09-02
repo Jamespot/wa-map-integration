@@ -306,7 +306,7 @@
  <layer id="40" name="conference" width="107" height="84">
   <properties>
    <property name="openWebsite" value="https://jamespot.whereby.com/hello-info"/>
-   <property name="openWebsitePolicy" value="fullscreen=*, microphone=*, camera=*"/>
+   <property name="openWebsitePolicy" value="camera; microphone; fullscreen; display-capture; autoplay; compute-pressure"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
