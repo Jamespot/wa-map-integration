@@ -394,6 +394,11 @@
                  "value":"https:\/\/jamespot.whereby.com\/hello-info"
                 }, 
                 {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"camera; microphone; fullscreen; display-capture; autoplay; compute-pressure"
